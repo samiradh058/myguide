@@ -1,0 +1,188 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img.d-inline-block.align-text-top{
+    border-radius: 20px;
+}
+b{
+    color: red;
+}
+i{
+    color: green;
+}
+span.navbar-toggler-icon{
+    margin-top: -6px;
+    margin-bottom: -4px;
+    margin-left: -11px;
+    margin-right: -11px;
+    background-color: rgb(0, 252, 46);
+    border: solid black 3px;
+    border-radius: 5px;
+}
+div.container{
+    background: rgb(143, 195, 158);
+    border-radius: 10px;
+}
+
+input.form-control.me-2{
+    background-color: rgb(227, 220, 209);
+    border-radius: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    padding: 0px 10px;
+}
+button.btn.btn-outline-success{
+    padding: 0px 0px;
+    background-color: rgb(139, 139, 175);
+    margin-top: 10px;
+    margin-bottom: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+}
+.navbar-nav.me-auto{
+margin-left: 90px;
+}
+a.nav-link.active{
+    font-size: 20px;
+    font-style: bold;
+    align-items: center;
+    padding: 10px 60px 15px 30px;
+    margin-left: 55px;
+}
+a.nav-link.active:hover{
+    font-size: 22px;
+    color: wheat;
+}
+div.container-fluid{
+    background: rgb(67, 143, 73);
+    margin-top: -20px;
+    border-radius: 10px;
+    justify-content: space-evenly;
+}
+div.container-fluid h3{
+    color:rgb(0, 0, 255);
+    margin-top: 13px;
+    font-size: 17px;
+    font-weight: 700;
+}
+ul.dropdown-menu.show{
+    background: rgb(87, 221, 194);
+    font-style: italic;
+    border: 2px solid black;
+}
+a.dropdown-item{
+    margin-top: -10px;
+    margin-left: -5px;
+    margin-bottom: -5px;
+}
+a.nav-link.dropdown-toggle{
+    font-weight: 500;
+    margin-right: 30px;
+}
+div.carousel-caption.d-none.d-md-block h5{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+div.carousel-caption.d-none.d-md-block p{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+.container-fluid.mt-1{
+    background: rgb(103, 103, 64);
+}
+div.card{
+    background: rgb(184, 120, 120);
+    margin-bottom: 40px;
+    height: fit-content;
+}
+a.btn.btn-primary:hover{
+    transform: scale(1.1);
+    transition: 0.25s ease;
+}  
+h2{
+    align-items: center;
+    color: rgb(255, 255, 255);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    margin: 0px 0px 8px;  
+ }
+img.figure-img.img-fluid.rounded{
+    height: 200px;
+}
+h4{
+    display: flex;
+    justify-content: center;
+}
+p.figure-caption{
+    display: flex;
+    justify-content: center;
+    font-size: 19px;
+    font-weight: 500;
+    color: rgb(15, 83, 99);
+}
+.col-sm-12{
+    display: flex;
+    justify-content: space-evenly;
+}
+.container-fluid.mt-0{
+    background: rgb(102, 150, 165);
+}
+img.figure-img.img-fluid.rounded-circle:hover{
+    transform: scale(1.1);
+    transition: 0.25s ease;
+}
+h5.card-title{
+    color: white;
+    font-size: 30px;
+}
+p.card-text{
+    font-size: 20px;
+    margin: -10px 0px 9px 10px;
+    padding: 1px 0px 0px 2px;
+}
+div.card.text-center.mt-1{
+    background: rgb(158, 160, 110);
+}
+a.btn.btn-primary-e{
+    background: linear-gradient(90deg, rgba(255, 3, 3, 0.734)28%, rgba(0, 60, 255, 0.98)89%);
+    color: yellow;
+    border: 2px solid green;
+    border-radius: 30px;
+}
+div.card-footer.text{
+    color: rgb(46, 95, 46);
+    font-weight: 600;
+}
+p.card-text{
+    margin-top: 0px;
+    color: rgb(79, 126, 91);
+}
+p{
+    margin-top: -5px;
+    font-size: large;
+    margin-bottom: 5px;
+}
+div.i{
+    color: rgb(79, 126, 91);
+    font-size: large;
+    margin-top: 5px;
+    font-size: large;
+}
+div.h{
+    font-size: large;
+    color: rgb(85, 68, 75);
+    font-weight: 600;
+}
+div.j{
+    margin-bottom: 5px;
+    font-size: large;
+}
+a.btn.btn-primary-e:hover{
+    transform: scale(1.1);
+    transition: 0.25s ease;
+}

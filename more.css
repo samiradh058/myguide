@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.col-12{
+    display: flex;
+    justify-content: center;
+    background: rgb(139, 113, 156);
+    border-radius: 5px;
+}
+h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+img{
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+a.btn.btn-primary{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background: rgb(143, 57, 57);
+    border-radius: 15px;
+    border: none;
+}
+a.btn.btn-primary:hover{
+    transform: scale(1.1);
+    transition: 0.25s ease;
+}
+
+
+
+div.card.text-center.mt-1{
+    background: rgb(158, 160, 110);
+}
+a.btn.btn-primary-e{
+    background: linear-gradient(90deg, rgba(255, 3, 3, 0.734)28%, rgba(0, 60, 255, 0.98)89%);
+    color: yellow;
+    border: 2px solid green;
+    border-radius: 30px;
+}
+h5.card-title{
+    color: white;
+    font-size: 30px;
+}
+div.card-footer.text{
+    color: rgb(46, 95, 46);
+    font-weight: 600;
+}
+p.card-text{
+    margin-top: 0px;
+    color: rgb(79, 126, 91);
+}
+p{
+    margin-top: -5px;
+    font-size: large;
+    margin-bottom: 5px;
+}
+div.i{
+    color: rgb(79, 126, 91);
+    font-size: large;
+    margin-top: 5px;
+    font-size: large;
+}
+div.h{
+    font-size: large;
+    color: rgb(85, 68, 75);
+    font-weight: 600;
+}
+div.j{
+    margin-bottom: 5px;
+    font-size: large;
+}
+a.btn.btn-primary-e:hover{
+    transform: scale(1.1);
+    transition: 0.25s ease;
+}
